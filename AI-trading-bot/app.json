@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "AI-trading-bot",
+    "slug": "AI-trading-bot"
+  }
+}
